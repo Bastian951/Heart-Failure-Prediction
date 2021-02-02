@@ -1,9 +1,16 @@
-# Credit Card Fraud
+# Heart Failure Prediction
 Proyecto personal
 
-Para las compañías de tarjetas de créditos es importante poder reconocer las transacciones fraudulentas para así evitar problemas legales, perdidas económicas y perdida de confianza de sus usuarios.
+Segun datos de la OMS las principales causas de muerte se deben a enfermedades cardiovasculares. 
+Sin embargo la mayoría de estas enfermedades se pueden prevenir abordando los factores de riesgo conductuales como el consumo de tabaco, la dieta poco saludable, la inactividad física y el consumo de alcohol.
 
-Por lo tanto nuestro interes es la creación de un modelo predictivo con una alta precisión que nos permita poder hacer un seguimiento de las posibles transacciones fraudulentas. 
+Las personas con enfermedad cardiovascular o que tienen un alto riesgo cardiovascular (debido a otros factores como hipertensión, diabetes, hiperlipidemia o enfermedad ya establecida) necesitan una detección y manejo precoz.
 
-En el archivo __Rellenar__ crearemos una red neuronal artificial utilizando Keras.
-En el archivo __Rellenar__ crearemos una red neuronal artificial utilizando Tensorflow 2.0
+Es por esto que un modelo de aprendizaje automático puede ser de gran ayuda para la detección de enfermedades cardiovasculares. 
+
+
+<figure>
+<center>
+<img  src="https://salutaprop.org/images/uploads/2016/09/06/large/ECV.jpg" width="400" height="300"/>
+</center>
+</figure>
