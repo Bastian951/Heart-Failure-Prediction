@@ -11,6 +11,6 @@ Es por esto que un modelo de aprendizaje automático puede ser de gran ayuda par
 
 <figure>
 <center>
-<img  src="https://salutaprop.org/images/uploads/2016/09/06/large/ECV.jpg" width="400" height="300"/>
+<img src="https://salutaprop.org/images/uploads/2016/09/06/large/ECV.jpg" width="400" height="300"/>
 </center>
 </figure>
